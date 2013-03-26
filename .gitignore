@@ -8,10 +8,6 @@
 /log/*.log
 /tmp
 
-#Ignore all test files
-/spec
-/controllers/*_spec.rb
-
 # Ignore other unneeded files.
 doc/
 *.swp
